@@ -6,7 +6,6 @@
 }
 
 body {
-  min-width: 100vw;
   min-height: 100vh;
   background: linear-gradient(to bottom, #101010, #103020) fixed center
     center/cover;
@@ -56,4 +55,11 @@ header h2 {
 .post p {
   font-size: 20px;
   margin-bottom: 10px;
+}
+
+footer {
+  background-color: #101010;
+  color: #f2f2f2;
+  padding: 20px;
+  width: 100%;
 }
