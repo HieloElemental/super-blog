@@ -8,7 +8,7 @@
 body {
   min-width: 100vw;
   min-height: 100vh;
-  background: linear-gradient(to bottom, #101010, #102050) fixed center
+  background: linear-gradient(to bottom, #101010, #103020) fixed center
     center/cover;
 }
 
