@@ -3,4 +3,4 @@
  HieloElemental tiene 16 años y nació en Colombia,
  viviendo en todo el mundo
 
- Hoy hablaremos de su vida.
+ Hoy hablaremos de su vida y obra maestra.
