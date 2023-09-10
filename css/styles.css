@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -6,6 +6,33 @@
 }
 
 body {
-  color: #ff1493;
-  text-align: center;
+  min-width: 100vw;
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #101010, #102050) fixed center
+    center/cover;
+}
+
+.posts {
+  padding: 10px 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.post {
+  background: #f2f2f2;
+  max-width: 300px;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 3px 5px 5px #101010;
+}
+
+.post h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.post p {
+  font-size: 20px;
 }
