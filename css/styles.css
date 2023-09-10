@@ -17,9 +17,20 @@ header {
   color: #b5b0fd;
   display: flex;
   justify-content: center;
+  gap: 10%;
+  align-items: center;
+  padding: 50px;
+}
+
+header .flex {
+  display: flex;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 50px;
+}
+
+header img {
+  width: 10%;
 }
 
 header h1 {
